@@ -1,6 +1,6 @@
 <h1 align="center">Projetos com Selenium</h1>
 
-![Badge Andamento](http://img.shields.io/static/v1?label=STATUS&message=EM%ANDAMENTO&color=GREEN&style=for-the-badge)
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 >Propósito do projeto
 
